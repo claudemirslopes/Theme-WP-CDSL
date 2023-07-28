@@ -17,7 +17,7 @@
 
 :small_blue_diamond: [Como editar o Tema](#edições-pelo-customize)
 
-:small_blue_diamond: [Deploy da Aplicação](#layout-da-aplicação-dash)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
