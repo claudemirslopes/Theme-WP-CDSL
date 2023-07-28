@@ -21,7 +21,7 @@
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Casos de Uso](#casos-de-uso)
 
 ... 
 
