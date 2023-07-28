@@ -23,9 +23,7 @@
 
 :small_blue_diamond: [Casos de Uso](#casos-de-uso)
 
-... 
-
-Descrição do projeto desenvolvido para o processo seletivo da empresa BauilBox para o cargo de Dev WordPress
+Projeto desenvolvido para o processo seletivo da empresa BauilBox para o cargo de Dev WordPress
 
 ## Descrição do projeto 
 
@@ -61,7 +59,7 @@ Descrição do projeto desenvolvido para o processo seletivo da empresa BauilBox
 ## Layout da Aplicação :dash:
 
 > Link do tema instalado: https://localhost.inf.br/wpcdsl/ <br>
-> Dados de acesso: <br>
+> <b>Dados de acesso:</b> <br>
 > Usuário: useradmin <br>
 > Senha: V9FHoxzB0x!
 
