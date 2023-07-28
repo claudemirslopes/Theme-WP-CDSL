@@ -32,6 +32,8 @@ Projeto desenvolvido para o processo seletivo da empresa BauilBox para o cargo d
 </p>
 <p align="justify">
   Não foi utilizado nenhum plugin conforme dizia o enunciado da do teste enviado via e-mail da vaga Dev WordPress da empresa BuildBox. Todos os parâmetros para a edição do tema estão dentro do menu Customize do WordPress.
+
+  No CSS eu utilizei o Normalize, encontrado em: https://www.npmjs.com/package/normalize.css/v/8.0.1
 </p>
 
 ## Edições pelo Customize
