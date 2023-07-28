@@ -58,7 +58,8 @@ Projeto desenvolvido para o processo seletivo da empresa BauilBox para o cargo d
 
 ## Layout da Aplicação :dash:
 
-> Link do tema instalado: https://localhost.inf.br/wpcdsl/ <br>
+> <b>Link do tema instalado:</b> https://localhost.inf.br/wpcdsl/ <br>
+> <b>Painel Administrativo:</b> https://localhost.inf.br/wpcdsl/wp-admin/ <br>
 > <b>Dados de acesso:</b> <br>
 > Usuário: useradmin <br>
 > Senha: V9FHoxzB0x!
