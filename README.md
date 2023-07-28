@@ -60,7 +60,7 @@ Descrição do projeto desenvolvido para o processo seletivo da empresa BauilBox
 
 ## Layout da Aplicação :dash:
 
-> Link do tema instalado: https://localhost.inf.br/wpcdsl/
+> Link do tema instalado: https://localhost.inf.br/wpcdsl/ <br>
 > Dados de acesso: 
 > Usuário: useradmin
 > Senha: V9FHoxzB0x!
