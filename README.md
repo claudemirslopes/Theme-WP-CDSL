@@ -17,7 +17,7 @@
 
 :small_blue_diamond: [Como editar o Tema](#edições-pelo-customize)
 
-:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-dash)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -58,7 +58,7 @@ Descrição do projeto desenvolvido para o processo seletivo da empresa BauilBox
 
 :heavy_check_mark: Additional CSS
 
-## Layout da Aplicação (Visual) :dash:
+## Layout da Aplicação :dash:
 
 > Link do tema instalado: https://localhost.inf.br/wpcdsl/
 > Dados de acesso: Usuário (useradmin) | Senha (V9FHoxzB0x!)
