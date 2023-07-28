@@ -15,7 +15,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#edições-pelo-customize)
+:small_blue_diamond: [Como editar o Tema](#edições-pelo-customize)
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
