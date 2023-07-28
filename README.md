@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=wordpress&message=development&color=blue&style=for-the-badge&logo=wordpress"/>
-  <img src="https://img.shields.io/static/v1?label=storm&message=deploy&color=yellow&style=for-the-badge&logo=phpstorm"/>
+  <img src="https://img.shields.io/static/v1?label=storm&message=IDE&color=yellow&style=for-the-badge&logo=phpstorm"/>
   <img src="https://img.shields.io/static/v1?label=php&message=language&color=green&style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/static/v1?label=html5&message=markup&color=black&style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=normalize&message=style&color=red&style=for-the-badge&logo=css3"/>
