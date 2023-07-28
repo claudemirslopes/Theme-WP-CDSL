@@ -1,6 +1,6 @@
 /*
 Theme Name: WP CDSL
-Theme URI: https://openbeta.com.br/wpcdsl
+Theme URI: https://localhost.inf.br/wpcdsl
 Author: Claudemir Lopes
 Author URI: https://github.com/claudemirslopes
 Description: This theme is for the selection process of the company Buildbox | Vacancy Dev WordPress.
@@ -794,7 +794,7 @@ img {
 
 /* Footer */
 footer{ 
-    background: var( --wpcdsl-gray3 ); 
+    background: var( --wpcdsl-gray2 ); 
     padding: 15px 0; 
     color: #FFFFFF; 
 }
